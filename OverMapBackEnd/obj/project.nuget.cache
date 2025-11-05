@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "S8qv0hKAa20=",
+  "success": true,
+  "projectFilePath": "E:\\Code\\OverMap\\OverMapBackEnd\\OverMapBackEnd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nathan\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.10\\microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "C:\\Users\\Nathan\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
