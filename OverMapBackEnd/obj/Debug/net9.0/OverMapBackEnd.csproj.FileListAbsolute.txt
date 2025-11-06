@@ -30,3 +30,4 @@ E:\Code\OverMap\OverMapBackEnd\obj\Debug\net9.0\refint\OverMapBackEnd.dll
 E:\Code\OverMap\OverMapBackEnd\obj\Debug\net9.0\OverMapBackEnd.pdb
 E:\Code\OverMap\OverMapBackEnd\obj\Debug\net9.0\OverMapBackEnd.genruntimeconfig.cache
 E:\Code\OverMap\OverMapBackEnd\obj\Debug\net9.0\ref\OverMapBackEnd.dll
+E:\Code\OverMap\OverMapBackEnd\obj\Debug\net9.0\OverMapBackEnd.sourcelink.json

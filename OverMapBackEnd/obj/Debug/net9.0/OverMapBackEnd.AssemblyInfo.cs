@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OverMapBackEnd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c2f8c3e15e2cc23f925e8b9df1f15a5165ac3bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("OverMapBackEnd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OverMapBackEnd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
